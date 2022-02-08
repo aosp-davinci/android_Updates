@@ -1,9 +1,9 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci/davinciin)
-Description: October Security Patch
+Description: January Security Patch
 Build Type: Full
 
-===== Oct 06, 2021 =====
+===== Feb 6, 2022 =====
 
 Changelogs:
-- Merged Android 11.0.0 Release 46 (RQ3A.211001.001).
-- Update CAF revision to 11200.
+- Merge tag 'android-12.0.0_r27' (SQ1D.220105.007).
+- Update CAF revision to 11500.
