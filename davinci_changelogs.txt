@@ -1,9 +1,13 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci/davinciin)
-Description: February Security Patch
+Description: March Security Patch
 Build Type: Full
 
-===== Mar 4, 2022 =====
+===== Mar 29, 2022 =====
 
 Changelogs:
-- Merge tag 'android-12.0.0_r32' (SQ1D.220205.004).
-- Update CAF revision to 11600.
+- March security patch
+- Rebased over Android 12L source code
+- Updated translations
+- Added call recording support
+- Fixed biometric authentication on some apps – mainly banking apps
+- Update CAF revision to 11700.
