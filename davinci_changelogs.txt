@@ -1,13 +1,31 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci/davinciin)
-Description: March Security Patch
+Description: April Security Patch
 Build Type: Full
 
-===== Mar 29, 2022 =====
+===== Apr 11, 2022 =====
 
-Changelogs:
-- March security patch
-- Rebased over Android 12L source code
+#Changelogs#
+
+#Kernel:
+- Update CAF revision to 11800.
+
+#Improvements:
+- April security patch
+- Fixed charging animation not appearing
+- Fixed unlock sound playing repeatedly
 - Updated translations
-- Added call recording support
-- Fixed biometric authentication on some apps – mainly banking apps
-- Update CAF revision to 11700.
+- Others fixes
+
+#Plus version features:
+- LiveDisplay (color profile, display mode, reading mode, color calibration)
+- Hide Notch support.
+- StatusBar shortcuts
+- Rotation settings
+- Lock screen display (media cover, music visualizer, power menu)
+- Per-app volume settings
+- Increasing ring volume
+- Different gestures
+- Power and Volume button customisations
+- Network traffic monitor
+- Brightness (brightness slider, auto brightness, brightness control)
+- Quick settings (quick pulldown, title visibility, vibrate on touch, rows, columns)
