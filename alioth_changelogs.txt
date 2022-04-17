@@ -2,9 +2,10 @@ Device: Xiaomi POCO F3 / Redmi K40 / Mi 11X (alioth)
 Description: April Security Patch
 Build Type: Full
 
-===== Apr 11, 2022 =====
+===== Apr 17, 2022 =====
 
 #Changelogs#
+- Sync latest alioth Device tree from PE
 
 #Improvements:
 - April security patch
