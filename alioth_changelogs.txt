@@ -5,9 +5,14 @@ Build Type: Full
 ===== Apr 17, 2022 =====
 
 #Changelogs#
-- sm8250-common: Update powerhint
-- sm8250-common: Add kpti=off to vendor boot command line
-- sm8250-common: Set target arch variant "armv8-2a"
+- Sync latest alioth Device tree from PE
+
+#Improvements:
+- April security patch
+- Fixed charging animation not appearing
+- Fixed unlock sound playing repeatedly
+- Updated translations
+- Others fixes
 
 #Plus version features:
 - LiveDisplay (color profile, display mode, reading mode, color calibration)
