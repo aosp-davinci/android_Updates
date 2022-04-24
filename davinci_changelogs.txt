@@ -6,15 +6,8 @@ Build Type: Full
 
 #Changelogs#
 
-#Kernel:
-- Update CAF revision to 11800.
-
 #Improvements:
-- April security patch
-- Fixed charging animation not appearing
-- Fixed unlock sound playing repeatedly
-- Updated translations
-- Others fixes
+- change target build variant to user 
 
 #Plus version features:
 - LiveDisplay (color profile, display mode, reading mode, color calibration)
