@@ -5,8 +5,9 @@ Build Type: Full
 ===== Apr 17, 2022 =====
 
 #Changelogs#
-- sm8250-common: Add kpti=off to vendor boot command line
-- sm8250-common: Set target arch variant "armv8-2a"
+- Fixed Always-on Display animation
+- Fixed CPU throttling
+- Kernel updated to CAF tag LA.UM.9.12.r1-14100-SMxx50.0
 
 #Plus version features:
 - LiveDisplay (color profile, display mode, reading mode, color calibration)
