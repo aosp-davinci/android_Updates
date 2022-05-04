@@ -5,9 +5,17 @@ Build Type: Full
 ===== Apr 17, 2022 =====
 
 #Changelogs#
-- Fixed Always-on Display animation
-- Fixed CPU throttling
-- Kernel updated to CAF tag LA.UM.9.12.r1-14100-SMxx50.0
+- alioth: switch to UtsavBalar1231 kernel
+- add Xiaomi pickup sensor
+- remove PocketMode
+- sm8250-common: overlay: cleanup some double ones
+- sm8250-common: sepolicy: add hal_camerapostproc_xiaomi_hwservice and …
+- sm8250-common: sepolicy: Fix Fingerprint sepolicy compilation with se…
+- sm8250-common: rro_overlays: Update wifi package name from Google
+- sm8250-common: Fix Video Calling
+- Switch to skiagl threaded
+- sm8250-common: Improve haptic and vibe patterns
+- sm8250-common: Disable surfaceflinger backpressure
 
 #Plus version features:
 - LiveDisplay (color profile, display mode, reading mode, color calibration)
