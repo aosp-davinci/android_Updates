@@ -5,7 +5,7 @@ Build Type: Full
 ===== Apr 17, 2022 =====
 
 #Changelogs#
-- Use LineageOS alioth device tree.
+- Update latest source
 
 #Plus version features:
 - LiveDisplay (color profile, display mode, reading mode, color calibration)
